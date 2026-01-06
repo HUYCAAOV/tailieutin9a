@@ -1,0 +1,10 @@
+{
+  "homepage": "https://HUYCAAOV.github.io/tailieutin9a",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
