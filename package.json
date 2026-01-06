@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME",
+  "homepage": "https://HUYCAAOV.github.io/tailieutin9a",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
