@@ -5,7 +5,7 @@ import Marketplace from './components/Marketplace';
 import UploadModal from './components/UploadModal';
 import Reader from './components/Reader';
 import Login from './components/Login';
-import { getDeviceId, verifyDeviceBinding } from './utils/security';
+import { getDeviceId } from './utils/security';
 import { DocumentItem, DocType, User, ViewState } from './types';
 
 // Mock Data

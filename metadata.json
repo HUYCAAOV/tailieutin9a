@@ -1,7 +1,5 @@
 {
-  "name": "Copy of Copy of Copy of StudyVerse 3D",
+  "name": "StudyVerse 3D",
   "description": "Nền tảng lưu trữ và mua bán tài liệu học tập với giao diện 3D hiện đại, tích hợp AI để hỗ trợ học tập.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
+  "requestFramePermissions": []
 }
